@@ -1,0 +1,5 @@
+1. All courses - https://www.bu.edu/academics/eng/courses/
+2. BME courses - https://www.bu.edu/academics/eng/courses/biomedical-engineering/
+3. ECE courses - https://www.bu.edu/academics/eng/courses/electrical-computer-engineering/
+4. EK  courses - https://www.bu.edu/academics/eng/courses/engineering-core/
+5. ME  courses - https://www.bu.edu/academics/eng/courses/mechanical-engineering/
