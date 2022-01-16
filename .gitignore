@@ -1,0 +1,9 @@
+#Ignore test files
+classes.h
+getClass_T.py
+getClassDetails_test.py
+logs.txt
+Schedule.txt
+courses.txt
+scheduler
+*.html
